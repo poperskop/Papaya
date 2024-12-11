@@ -14,7 +14,7 @@ For model i used (WinKawaks/vit-tiny-patch16-224)[https://huggingface.co/WinKawa
 
 metrics values:
 ```
-Training Loss :		0.164200
+Training Loss :		 0.164200
 Validation Loss:		0.132089
  Anthracnose/precision:		0.990637
  Anthracnose/recall :		1.000000
