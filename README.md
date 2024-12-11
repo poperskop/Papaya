@@ -10,7 +10,7 @@ This dataset includes 473 annotated images of guava fruits, categorized into thr
 Images were collected from guava orchards in Rajshahi and Pabna, Bangladesh, during the fruit-ripening season in July when disease vulnerability is highest. A plant pathologist verified the images for accuracy in classification. Each image was preprocessed to a consistent size of 512 x 512 pixels in RGB format, suitable for deep learning and image processing applications.
 
 ## My solution
-For model i used (WinKawaks/vit-tiny-patch16-224)[https://huggingface.co/WinKawaks/vit-tiny-patch16-224] as backbone and classification head on top of it.
+For model i used [WinKawaks/vit-tiny-patch16-224](https://huggingface.co/WinKawaks/vit-tiny-patch16-224) as backbone and classification head on top of it.
 
 metrics values:
 ```
